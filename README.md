@@ -1,4 +1,4 @@
-# Sini Club 🎵
+# Sini Club 🎵 (DEMO)
 
 A full-stack music platform where users can buy, sell, and listen to tracks — and artists can upload their music.
 
